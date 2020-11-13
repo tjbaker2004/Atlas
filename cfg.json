@@ -1,0 +1,7 @@
+{
+    "prefix": "-",
+    "token": "Nzc1ODAyOTA5Njk4ODE4MDg4.X6roww.KsfTRFcIBu_29S9b3HJ76L17xQI",
+    "dbUrl": "mongodb+srv://tj:NgKWfLvcQF62lciC@atlas-bot.lgyaq.mongodb.net/AtlasDB?retryWrites=true&w=majority",
+    "dbName": "AtlasDB",
+    "modRoleIDs": ["null", "null"]
+}
